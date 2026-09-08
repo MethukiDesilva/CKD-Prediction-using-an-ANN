@@ -46,6 +46,7 @@ This project builds, trains, and evaluates an Artificial Neural Network (ANN) to
 All three models performed very similarly, the CKD and non-CKD groups appear to be clearly separated by important lab values such as serum creatinine, blood urea, and haemoglobin. 
 
 <img width="684" height="592" alt="image" src="https://github.com/user-attachments/assets/37682475-1cf9-41f6-a027-a99ab12d1875" />
+
 The model correctly classifies 58 out of 60 people: 22 of 23 No CKD cases correctly identified (1 false alarm), and 36 of 37 CKD cases correctly identified (1 CKD case missed).
 
 
