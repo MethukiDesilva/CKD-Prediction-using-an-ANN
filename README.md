@@ -39,6 +39,8 @@ This project builds, trains, and evaluates an Artificial Neural Network (ANN) to
 | KNN (k=5)            | 0.983         |
 | Logistic Regression  | 0.983         |
 | ANN                   | 0.967         |
+
+
 all three models performed very similarly, the CKD and non-CKD groups appear to be clearly separated by important lab values such as serum creatinine, blood urea, and haemoglobin. 
 
 ## Requirements
